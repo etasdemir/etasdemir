@@ -16,4 +16,4 @@
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=etasdemir&layout=compact&theme=nightowl&card_width=445)
 
-<img src="https://c.tenor.com/aF0ipAtOk9cAAAAC/spy-x-family-anya.gif" width="250"  />
+<img src="https://c.tenor.com/aF0ipAtOk9cAAAAC/spy-x-family-anya.gif" width="200"  />
