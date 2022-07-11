@@ -8,7 +8,7 @@
 <p>
 	<strong>Welcome to my page!</strong>
     <br><br>
-    I'm <a href="https://etasdemir.github.io/">Eren Tasdemir</a>, self-motivated and enthusiastic software developer from Turkey with a strong background in mobile application development, especially on Android.
+    I'm <a href="https://etasdemir.github.io/">Eren Tasdemir</a>, software developer from Turkey with a strong background in mobile application development, especially on Android.
 	<br><br>
 </p>
 
