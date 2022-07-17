@@ -14,6 +14,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=etasdemir&show_icons=true&theme=radical&count_private=true)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=etasdemir&layout=compact&theme=nightowl&card_width=445)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=etasdemir&layout=compact&theme=nightowl&card_width=445&hide=SCSS)
 
 <img src="https://c.tenor.com/aF0ipAtOk9cAAAAC/spy-x-family-anya.gif" width="200"  />
