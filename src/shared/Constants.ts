@@ -108,18 +108,19 @@ export const CONTACT: Array<ContactInfo> = [
 
 export const PROJECTS: Array<ProjectInfo> = [
   {
-    title: "Albedo",
-    description: "With AlbedoApp you can find most popular anime series, top upcomings, airings, movies, manga and novels. Make searches by anime, manga, character or people. Find anime and manga by genres. Follow weekly anime schedule. Read anime quotes. Track down watched anime, read manga, total watched episode count, favourite quotes, favourite anime and manga. Create custom anime and manga lists.",
-    url: "https://github.com/etasdemir/AlbedoApp",
+    title: "Trackie",
+    description: "With Trackie you can explore the most popular genres, manga, authors, and characters. Track down your manga reading status. Follow your favorite author, character, and mangas. Offline first, multi-language, dark theme supported multi-platform mobile application. Easily update your chapter progress so your list is never out of date. Search your favorite manga, character, and author. Bookmark your current readings, recently reads, and favorite mangas, characters, and authors.",
+    url: "https://github.com/etasdemir/Trackie",
     techStack: [
-      "Kotlin",
-      "MVVM",
-      "Dagger2",
-      "Architecture Components",
-      "Retrofit2",
-      "Coroutine"
+      "TypeScript",
+      "React Native",
+      "Redux",
+      "Realm",
+      "React Navigation",
+      "Styled Components",
+      "Redux Logger"
     ],
-    image: "albedo-collage.webp"
+    image: "trackie-collage.webp",
   },
   {
     title: "OpticMap",
@@ -134,6 +135,20 @@ export const PROJECTS: Array<ProjectInfo> = [
       "Coroutine"
     ],
     image: "optic-map-collage.webp",
+  },
+  {
+    title: "Albedo",
+    description: "With AlbedoApp you can find most popular anime series, top upcomings, airings, movies, manga and novels. Make searches by anime, manga, character or people. Find anime and manga by genres. Follow weekly anime schedule. Read anime quotes. Track down watched anime, read manga, total watched episode count, favourite quotes, favourite anime and manga. Create custom anime and manga lists.",
+    url: "https://github.com/etasdemir/AlbedoApp",
+    techStack: [
+      "Kotlin",
+      "MVVM",
+      "Dagger2",
+      "Architecture Components",
+      "Retrofit2",
+      "Coroutine"
+    ],
+    image: "albedo-collage.webp"
   },
   {
     title: "GPAcademic",
