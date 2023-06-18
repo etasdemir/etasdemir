@@ -12,7 +12,7 @@
 	<br><br>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=etasdemir&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=etasdemir&theme=radical&count_private=true&include_all_commits=true)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=etasdemir&layout=compact&theme=nightowl&card_width=445&hide=SCSS)
 
