@@ -2,7 +2,6 @@
 
 <h1> Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=etasdemir.etasdemir)
 <br/>
 
 <p>
@@ -12,7 +11,7 @@
 	<br><br>
 </p>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=etasdemir&theme=radical&count_private=true&include_all_commits=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=etasdemir&include_all_commits=true&theme=radical)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=etasdemir&layout=compact&theme=nightowl&card_width=445&hide=SCSS)
 
